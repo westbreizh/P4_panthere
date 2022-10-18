@@ -2086,11 +2086,11 @@ pre code {
 }
 
 .row .infos .agence .nom{
-    color: #FFFF!important;
+    color: black!important;
 }
 
 .row .infos p{
-    color: #FFFF!important;
+    color: black!important;
     font-size: medium;
 }
 
