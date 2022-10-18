@@ -299,7 +299,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
-    color: #F3976C!important
+    color: #e86224!important
 }
 
 
@@ -786,11 +786,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #e86224;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #e86224!important;
 }
 
 .container.bloc-lg .row .col-sm-12 .hero-bloc-text{
@@ -802,7 +802,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background:#e86224;
     color: #000!important;
 }
 
@@ -828,7 +828,7 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #F3976C!important;
+    color: #e86224!important;
     border-color: #364577!important;
 }
 
@@ -841,7 +841,7 @@ h4 {
 }
 
 h3.mg-md.text-center{
-    color: #F3976C!important;
+    color: #e86224!important;
 }
 
 @media (max-width: 1024px) {
