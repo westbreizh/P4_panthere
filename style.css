@@ -812,7 +812,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:focus {
-    border:3px solid white;
+    border:3px solid black !important;
 }
 
 
